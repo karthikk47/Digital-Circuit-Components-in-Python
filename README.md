@@ -8,7 +8,7 @@ digital components I come across or hear of.
 Each code aims to simulate the working and behaviour of the respective component as closely as possible to their actual behaviour, when used in digital circuits.
 
 However, this also means that the codes ignore the concepts of time and space complexity in favour of accurately representing the way the processing of the output occurs across clock cycles in each component and
-hence, these codes are for the large part, completely unoptimised.
+hence, these codes are, for the large part, completely unoptimised.
 
 Additionally, the usage of any and all libraries has been restricted to the minimum possible amount, in order to be able to draw out the architecture of each component without simply using shortcuts to get the 
 various outputs at each of the stages.
